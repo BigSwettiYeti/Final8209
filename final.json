@@ -1,0 +1,42 @@
+{
+  "restaurantName": "Barnaby's British Bistro",
+  "city": "Ottawa",
+  "established": 2021,
+  "dietaryAlternatives": true,
+  "patio": true,
+  "menuItems": [
+    {
+      "name": "Creole Shrimp Tacos",
+      "spicy": true,
+      "price": 23.00,
+      "side": "Fries",
+      "ingredients": [
+        "Soft shell four tortilla",
+        "Creole seasoning",
+        "Dill slaw"
+      ]
+    },
+    {
+      "name": "Beet and Goat Cheese Salad",
+      "spicy": false,
+      "price": 18.00,
+      "side": "Toasted Baguette",
+      "ingredients": [
+        "Oven roasted beets",
+        "Fresh goat cheese",
+        "Candied walnuts"
+      ]
+    },
+    {
+      "name": "Beer Battered Fish and Chips",
+      "spicy": false,
+      "price": 21.00,
+      "side": "Fries",
+      "ingredients": [
+        "Local haddock",
+        "Dill slaw",
+        "House tartar sauce"
+      ]
+    }
+  ]
+}
